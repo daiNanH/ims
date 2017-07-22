@@ -206,12 +206,15 @@ a {
 }
 
 .hw-logo {
-	height: 50px;
+	height: 76px;
 	position: relative;
 }
 
 .logo {
-	height: 50px;
+	height:100%;
+	line-height: 0;
+	margin-top: -2PX;
+
 }
 
 .word {
